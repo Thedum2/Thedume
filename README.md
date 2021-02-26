@@ -2,14 +2,6 @@
 
 ![1](https://user-images.githubusercontent.com/76659528/109339008-5a518f00-78aa-11eb-9efe-b6e409f243fc.png)
 
-# TheDume
-
-C#
-
-Mysql Database
-
-Winform
-
 ---
 
 ## 📌1.프로젝트 소개
