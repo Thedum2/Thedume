@@ -50,7 +50,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
 ## ✨4.Form별 기능 소개
 
-# - 로그인 폼
+ - 로그인 폼
 
   ![Untitled](https://user-images.githubusercontent.com/76659528/109339281-c46a3400-78aa-11eb-8465-7124c66168e4.png)
 
@@ -70,7 +70,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
     회원가입 폼 입니다! 각각의 조건을 두어 가입 조건을 이용했습니다!
 
-# - 메인 폼 - 인기순위 폼
+ - 메인 폼 - 인기순위 폼
 
     ![Untitled 2](https://user-images.githubusercontent.com/76659528/109339469-0c895680-78ab-11eb-96f0-24fe14d7b4b8.png)
 
@@ -78,7 +78,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
     다운로드 수는 유저들이 "설치하기"버튼을 누를 때마다 업데이트됩니다!
 
-# - 메인 폼 - 설치하기 폼
+ - 메인 폼 - 설치하기 폼 
 
     ![Untitled 3](https://user-images.githubusercontent.com/76659528/109339514-1c089f80-78ab-11eb-9693-eceea9ae9ab1.png)
 
@@ -98,7 +98,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
     각각의 소프트웨어에는 2개의 태그가 달립니다. 분야별로 프로그램 목록을 확인 할 수 있습니다!
 
-# - 메인 폼 - 라이브러리 폼
+ - 메인 폼 - 라이브러리 폼
 
    ![Untitled 6](https://user-images.githubusercontent.com/76659528/109339593-32aef680-78ab-11eb-9160-6a7547fe14f6.png)
 
@@ -112,7 +112,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
     계정 삭제 기능 또한 존재합니다. 사용자가 이 기능을 쓸 일이 없게끔 해야겠죠?ㅎㅎㅎ
 
-# - 런쳐 폼
+ - 런쳐 폼
 
     ![Untitled 8](https://user-images.githubusercontent.com/76659528/109339636-4195a900-78ab-11eb-99f0-cba990739cf3.png)
 
