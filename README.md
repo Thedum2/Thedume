@@ -48,8 +48,8 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
     로그인 화면입니다! 회원가입,아이디/비밀번호 찾기를 할 수 있으며
     
     회원 로그인,게스트로그인 중 둘 중 하나를 선택 할 수 있습니다!
-
-    https://user-images.githubusercontent.com/76659528/109339304-cf24c900-78aa-11eb-8316-3902dbc3416a.mp4
+    
+    <iframe width="640" height="360" src="https://www.youtube.com/watch?v=WBM0NR5gje4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
     로그인 애니메이션으로 고급진(?) 느낌으로 제작하였습니다!
 
