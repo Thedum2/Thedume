@@ -1,0 +1,110 @@
+D:\더듬이 작업\Thedume\Thedume\bin\Debug\Thedume.exe.config
+D:\더듬이 작업\Thedume\Thedume\bin\Debug\Thedume.exe
+D:\더듬이 작업\Thedume\Thedume\bin\Debug\Thedume.pdb
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.csprojAssemblyReference.cache
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Properties.Resources.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.csproj.GenerateResource.cache
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.csproj.CoreCompileInputs.cache
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.exe
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.pdb
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Main.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Dashboard.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Install.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Information.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Library.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Setting.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.LogIn.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Loading.resources
+D:\더듬이 작업\Thedume\Thedume\obj\Debug\Thedume.Friend.resources
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Thedume.exe.config
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Thedume.exe
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Thedume.pdb
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.csprojAssemblyReference.cache
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Dashboard.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Information.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Install.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Library.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Loading.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Login.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Main.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Properties.Resources.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Friend.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Setting.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.csproj.GenerateResource.cache
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.csproj.CoreCompileInputs.cache
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.exe
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.pdb
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\BouncyCastle.Crypto.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Google.Protobuf.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\K4os.Hash.xxHash.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\MySql.Data.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Renci.SshNet.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Buffers.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Memory.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Numerics.Vectors.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Ubiety.Dns.Core.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Zstandard.Net.dll
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Google.Protobuf.pdb
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Google.Protobuf.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\K4os.Hash.xxHash.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\MySql.Data.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\Renci.SshNet.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Buffers.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Memory.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Numerics.Vectors.xml
+D:\드미드미더드밍\Thedume\Thedume\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.csproj.CopyComplete
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Programinfo.resources
+D:\드미드미더드밍\Thedume\Thedume\obj\Debug\Thedume.Signup.resources
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Thedume.exe.config
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Thedume.exe
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Thedume.pdb
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\BouncyCastle.Crypto.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Google.Protobuf.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\K4os.Hash.xxHash.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\MySql.Data.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Renci.SshNet.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Buffers.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Memory.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Numerics.Vectors.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Ubiety.Dns.Core.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Zstandard.Net.dll
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Google.Protobuf.pdb
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Google.Protobuf.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\K4os.Hash.xxHash.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\MySql.Data.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\Renci.SshNet.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Buffers.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Memory.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Numerics.Vectors.xml
+D:\TheDumE coding\Thedume\Thedume\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.csprojAssemblyReference.cache
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Dashboard.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Signup.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Information.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Install.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Library.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Loading.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Login.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Main.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Programinfo.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Properties.Resources.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Setting.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.csproj.GenerateResource.cache
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.csproj.CoreCompileInputs.cache
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.csproj.CopyComplete
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.exe
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.pdb
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.prolist.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Changenickname.resources
+D:\TheDumE coding\Thedume\Thedume\obj\Debug\Thedume.Changeemail.resources
