@@ -49,7 +49,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
     
     회원 로그인,게스트로그인 중 둘 중 하나를 선택 할 수 있습니다!
     
-    "https://www.youtube.com/embed/6Az2cNU7gUw
+    https://youtu.be/WBM0NR5gje4
 
     로그인 애니메이션으로 고급진(?) 느낌으로 제작하였습니다!
 
