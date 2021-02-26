@@ -49,7 +49,7 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
     
     회원 로그인,게스트로그인 중 둘 중 하나를 선택 할 수 있습니다!
     
-    <iframe width="640" height="360" src="https://www.youtube.com/watch?v=WBM0NR5gje4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+    [![예제](https://i9.ytimg.com/vi_webp/WBM0NR5gje4/mqdefault.webp?time=1614364800000&sqp=CICB5YEG&rs=AOn4CLCdT9OzKUcMnvaGS_JghrKR8Lv_Ow)](https://www.youtube.com/watch?v=WBM0NR5gje4) 
 
     로그인 애니메이션으로 고급진(?) 느낌으로 제작하였습니다!
 
