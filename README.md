@@ -1,7 +1,4 @@
 # Thedume
-
-![1](https://user-images.githubusercontent.com/76659528/109339008-5a518f00-78aa-11eb-9efe-b6e409f243fc.png)
-
 ---
 
 ## 📌1.프로젝트 소개
@@ -40,78 +37,67 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
 ---
 
-## ✨4.Form별 기능 소개
-  ![Untitled](https://user-images.githubusercontent.com/76659528/109339281-c46a3400-78aa-11eb-8465-7124c66168e4.png)
- - 로그인 폼
+## 📕4.프로그램 실행을 위한 가이드
 
+#프로그램 실행을 위한 환경
+
+1. .net framework 4 이상의 버전
+
+2. 인터넷 연결
+
+3.MySQL
+
+4.SLN파일을 실행 할 수 있는 IDE(VIsual Studio 추천) 
+
+#DATABASE의 스키마 구조
+
+테스트데이터
+
+[testbase.zip](https://github.com/Thedum2/Thedume/files/6108468/testbase.zip)
+
+
+1.Table (Program_info)
+
+
+![image](https://user-images.githubusercontent.com/76659528/110469039-75c76000-811c-11eb-8cfd-4901ff6b954f.png)
+
+
+name_eng - 프로그램의 영문이름입니다
+
+name_kor - 프로그램의 한글이름입니다
+
+image_link - 프로그램의 대표 이미지 링크입니다
+
+runwindow - 프로그램의 실행화면 이미지 링크입니다
+
+download_link - 프로그램의 다운로드 링크입니다
+
+homepage_link - 프로그램의 개발사 대표 홈페이지 링크입니다
+
+download_count - 프로그램이 다운로드 받은 횟수입니다
+
+verification - 인증 구분 태그입니다 1이면 노출,0이면 미노출입니다
+
+program_tag1 - 프로그램의 대분류입니다
+
+program_tag2 - 프로그램의 소분류입니다
+
+pro_info - 프로그램의 간단한 설명입니다
+
+
+2.Table (user_account)
+
+
+ id - 유저의 아아디입니다
+	
+ password - 유저의 비밀번호입니다
  
-    로그인 화면입니다! 회원가입,아이디/비밀번호 찾기를 할 수 있으며
-    
-    회원 로그인,게스트로그인 중 둘 중 하나를 선택 할 수 있습니다!
-    
-    https://youtu.be/WBM0NR5gje4
+ nickname - 유저의 닉네임입니다
+ 
+ email - 유저의 이메일입니다
+ 
+ librarypro1~50 - 유저가 라이브러리에 추가한 프로그램들입니다
+ 
+ lanpro1~15 - 유저가 런쳐에 추가한 프로그램 목록들입니다
+---
 
-    로그인 애니메이션으로 고급진(?) 느낌으로 제작하였습니다!
-
-    닉네임과 함께 "반갑습니다!" 문구가 나옵니다.
-
-    이때 설치모드와 런쳐모드 두가지 중 하나를 선택할 수있습니다!
-
-    ![Untitled 1](https://user-images.githubusercontent.com/76659528/109339449-05624880-78ab-11eb-89d6-dad9c9d2fc56.png)
-
-    회원가입 폼 입니다! 각각의 조건을 두어 가입 조건을 이용했습니다!
-
- - 메인 폼 - 인기순위 폼
-
-    ![Untitled 2](https://user-images.githubusercontent.com/76659528/109339469-0c895680-78ab-11eb-96f0-24fe14d7b4b8.png)
-
-    ThedumE에서는 각각의 소프트웨어 목록 전체,분야별로 다운로드 수 1등을 공개합니다.
-
-    다운로드 수는 유저들이 "설치하기"버튼을 누를 때마다 업데이트됩니다!
-
- - 메인 폼 - 설치하기 폼 
-
-    ![Untitled 3](https://user-images.githubusercontent.com/76659528/109339514-1c089f80-78ab-11eb-9693-eceea9ae9ab1.png)
-
-    ![Untitled 4](https://user-images.githubusercontent.com/76659528/109339520-1dd26300-78ab-11eb-90ce-31da854b6523.png)
-
-    설치하기 폼에서는 각각의 분야별로 정리된 소프트웨어를 설치,라이브러리추가,정보보기 를 
-
-    할 수 있습니다! 
-
-    설치하기를 누르면 해당 소프트웨어의 다운로드 링크 파일이 제공됩니다!
-
-    라이브러리에 추가를 누르면 나만의 라이브러리에 해당 소프트웨어가 추가되며, 라이브러리 폼에서 한번에 목록을 확인 할 수 있습니다!
-
-    프로그램 정보를 누르면 해당 소프트웨어의 간단한 정보가 나옵니다!
-
-    ![Untitled 5](https://user-images.githubusercontent.com/76659528/109339554-288cf800-78ab-11eb-8d13-efbd9ff7918b.png)
-
-    각각의 소프트웨어에는 2개의 태그가 달립니다. 분야별로 프로그램 목록을 확인 할 수 있습니다!
-
- - 메인 폼 - 라이브러리 폼
-
-   ![Untitled 6](https://user-images.githubusercontent.com/76659528/109339593-32aef680-78ab-11eb-9160-6a7547fe14f6.png)
-
-    라이브러리 폼에서는 내가 라이브러리에 추가한 소프트웨어 목록들을 볼 수 있습니다!
-
-    마찬가지로 분야별로 확인 할 수 있습니다!
-
-    또한 사용자의 아이디,닉네임,이메일을 확인 할 수 있고, 변경 또한 가능합니다!
-
-    ![Untitled 7](https://user-images.githubusercontent.com/76659528/109339614-393d6e00-78ab-11eb-9ffa-c1d331a8f186.png)
-
-    계정 삭제 기능 또한 존재합니다. 사용자가 이 기능을 쓸 일이 없게끔 해야겠죠?ㅎㅎㅎ
-
- - 런쳐 폼
-
-    ![Untitled 8](https://user-images.githubusercontent.com/76659528/109339636-4195a900-78ab-11eb-99f0-cba990739cf3.png)
-
-    ![Untitled 9](https://user-images.githubusercontent.com/76659528/109339646-45293000-78ab-11eb-965c-52e375c130d9.png)
-
-
-ThedumE 런쳐는 사용자의 모니터 중앙에 위치합니다!
-
-자신이 쓸 프로그램을 +버튼을 통해 등록하고, 추가된 프로그램을 실행 할 수있습니다!
-
-또한 프로그램 설치 폼으로 바로 갈 수 있으며 목록 삭제또한 가능합니다!
