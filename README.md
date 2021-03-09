@@ -1,7 +1,4 @@
 # Thedume
-
-![1](https://user-images.githubusercontent.com/76659528/109339008-5a518f00-78aa-11eb-9efe-b6e409f243fc.png)
-
 ---
 
 ## 📌1.프로젝트 소개
@@ -39,5 +36,3 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 ![image](https://user-images.githubusercontent.com/76659528/109339246-b3212780-78aa-11eb-9d91-522e96a1408f.png)
 
 ---
-
-## ✨4.
