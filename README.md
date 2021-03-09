@@ -51,7 +51,8 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 
 #DATABASE의 스키마 구조
 
-테
+테스트데이터
+
 [testbase.zip](https://github.com/Thedum2/Thedume/files/6108468/testbase.zip)
 
 
