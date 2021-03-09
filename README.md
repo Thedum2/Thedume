@@ -40,10 +40,21 @@ TheDume에서는 각종 소프트웨어를 한번에 관리 할 수 있도록 �
 ## 📕4.프로그램 실행을 위한 가이드
 
 #프로그램 실행을 위한 환경
+
 1. .net framework 4 이상의 버전
+
 2. 인터넷 연결
 
+3.MySQL
+
+4.SLN파일을 실행 할 수 있는 IDE(VIsual Studio 추천) 
+
 #DATABASE의 스키마 구조
+
+테
+[testbase.zip](https://github.com/Thedum2/Thedume/files/6108468/testbase.zip)
+
+
 1.Table (Program_info)
 
 
